@@ -48,3 +48,18 @@ nav a:hover{
 h3{
     color: crimson;
 }
+
+
+
+footer{
+    background-color: #ffb3d9;
+    color: white;
+    text-align: center;
+    padding: 2px 0;
+    margin-top: 40px;
+}
+
+footer nav ul li a{
+    font-size: 50px;
+    margin: 2%;
+}

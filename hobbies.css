@@ -1,0 +1,60 @@
+footer{
+    background-color: #ffb3d9;
+    color: white;
+    text-align: center;
+    padding: 2px 0;
+    margin-top: 40px;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+
+}
+
+
+nav a:hover{
+    color: white;
+    
+}
+#carouselExampleFade{
+    width: 50%;
+    margin-left: 25%;
+}
+
+footer{
+    background-color: #ffb3d9;
+    color: white;
+    text-align: center;
+    padding: 2px 0;
+    margin-top: 40px;
+}
+
+nav ul li a{
+    font-size: 50px;
+    margin: 2%;
+}
+img{
+    width: 100px;
+    height: 800px;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+}
+ 
